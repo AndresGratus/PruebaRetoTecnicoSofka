@@ -3,6 +3,7 @@ package main;
 
 //Creamos la clase pregunta y sus atributos
 public class Pregunta {
+    String categoria;
     
    String pregunta;
    String respuestatrue1;
